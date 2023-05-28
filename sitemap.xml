@@ -2,72 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/about/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/attribute/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/help/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/tuiyan/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/xuanke/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/ziliao/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/EE/Electric%20machinary/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/InductionMachine/</loc>
+         <lastmod>2023-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/PowerandTorque/</loc>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/EE/as/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Must/CP/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Must/Meas/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Must/ODE/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Must/Pr/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Optional/Abstract%20Algebra/</loc>
-         <lastmod>2023-05-13</lastmod>
+         <lastmod>2023-05-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
