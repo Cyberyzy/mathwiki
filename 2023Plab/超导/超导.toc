@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}实验目的}{1}{section.1}%
+\contentsline {section}{\numberline {2}超导样品电阻测量}{1}{section.2}%
+\contentsline {section}{\numberline {3}乱真电势}{2}{section.3}%
+\contentsline {section}{\numberline {4}用铂电阻温度计测量温度}{2}{section.4}%
+\contentsline {section}{\numberline {5}原始数据}{3}{section.5}%
+\contentsline {section}{\numberline {6}总结}{4}{section.6}%
+\contentsline {section}{\numberline {7}原始数据}{5}{section.7}%
+\contentsline {section}{\numberline {8}思考题}{6}{section.8}%
