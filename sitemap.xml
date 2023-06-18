@@ -2,82 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/about/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/attribute/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/help/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/tuiyan/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/xuanke/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/ziliao/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/2023Plab/Phylab/</loc>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/EE/Electric%20machinary/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/EE/InductionMachine/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/EE/PowerandTorque/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/EE/as/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/asynchronous/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/dc/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/em/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/prob/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/solution/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/synchronous/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/sophomore/readme/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/sophomore/complex/readme/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/sophomore/electronmagnetic/readme/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/sophomore/electronmagnetic/review/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/sophomore/physics2/readme/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/sophomore/signal/Fourier/</loc>
+         <lastmod>2023-06-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cyberyzy.github.io/mathwiki/EE/sophomore/signal/readme/</loc>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Must/CP/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Must/Meas/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Must/ODE/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Must/Pr/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cyberyzy.github.io/mathwiki/Optional/Abstract%20Algebra/</loc>
-         <lastmod>2023-05-28</lastmod>
+         <lastmod>2023-06-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
